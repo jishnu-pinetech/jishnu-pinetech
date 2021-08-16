@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jishnu
 - 🌱 Learner ...
-- 💞️ A wanderer about node.js...
 
 
 <!---
